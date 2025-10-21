@@ -1,0 +1,5 @@
+Average Waiting Time: 6.5
+Average Turnaround Time: 13
+CPU Utilization: 100%
+Throughput: 0.153846 processes/unit time
+Gantt Chart: P1 (1) P2 (4) P4 (5) P1 (7) P3 (9) 
